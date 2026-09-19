@@ -1,5 +1,5 @@
 # dimensioner-v1
-MAAP-1: Automated Static Dimensioning and Weighing System 📦⚖️
+MAAP-1: Automated Static Dimensioning and Weighing System 
 
 Overview
 MAAP-1 is a custom-engineered, all-in-one hardware solution designed for instant static dimensioning and weighing of packages. Utilizing a custom ESP32-based PCB, multidirectional LiDAR sensors, and an integrated weighing scale, MAAP-1 instantly calculates the Length, Width, Height, and Weight of an object and outputs the data to a built-in thermal printer.

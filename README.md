@@ -65,6 +65,10 @@ Here is the complete Bill of Materials (BOM) to build your own.
 | **Hardware Kit (T-Nuts, M4 Bolts, Brackets)** | 1 | ₹350 | Local Hardware Supplier |
 
 
+<img width="1024" height="872" alt="image" src="https://github.com/user-attachments/assets/cd19077e-bae5-4a1f-a041-f82f6c88e48a" />
+
+
+
 If you are prototyping this for a grant, portfolio, or a startup venture, the economics are incredibly lean.
 
 * **Total Estimated Build Cost:** **~₹23,500 (approx. $235 USD)**

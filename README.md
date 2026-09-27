@@ -43,5 +43,34 @@ Future Improvements
 
 Database integration via ESP32 Wi-Fi for cloud-based package logging.
 Barcode scanner integration for automatic tracking number association.
-
 Over-the-Air (OTA) firmware updates.
+
+
+Here is the complete Bill of Materials (BOM) to build your own.
+
+
+
+| Component | Qty | Est. Price | Link / Source |
+| --- | --- | --- | --- |
+| **ESP32 WROOM-32 Dev Board** | 1 | ₹450 | [Robu.in](https://robu.in/product/nodemcu-esp-32s-esp-32e-wifi-serial-wifi-bluetooth/?utm_source=gemini) |
+| **ESP32-CAM Module** | 1 | ₹499 | [Robu.in](https://robu.in/product/esp32-cam-wifi-module-bluetooth-with-ov2640-camera-module-2mp/?utm_source=gemini) |
+| **VL53L0X ToF LiDAR Sensor** | 3 | ₹1,047 *(₹349 ea)* | [Robu.in](https://www.google.com/search?q=https://robu.in/product/vl53l0x-time-of-flight-tof-laser-ranging-sensor-v2/&utm_source=gemini) |
+| **1.3" I2C OLED Display (White)** | 1 | ₹299 | [Robu.in](https://robu.in/product/1-3-inch-i2c-oled-display-module-4-pin-white/?utm_source=gemini) |
+| **Mechanical Switch / Arcade Button** | 1 | ₹150 | Local Electronics Market |
+| **5V 3A Power Adapter** | 1 | ₹250 | Local Electronics Market |
+| **LED Strip / Ring Light (6000K)** | 1 | ₹150 | Local Electronics Market |
+| **Aluminum 2020 V-Slot Extrusions** | 2m | ₹800 | Local Hardware Supplier |
+| **Clear Polycarbonate/Acrylic Sheets** | 1 | ₹900 | Local Laser-Cutting Shop |
+| **Custom PCB (Matte Black + ENIG)** | 5 | ₹850 | [JLCPCB](https://jlcpcb.com?utm_source=gemini) |
+| **Hardware Kit (T-Nuts, M4 Bolts, Brackets)** | 1 | ₹350 | Local Hardware Supplier |
+
+
+If you are prototyping this for a grant, portfolio, or a startup venture, the economics are incredibly lean.
+
+* **Electronics (Sensors & Compute):** ₹1,996
+* **UI & Power:** ₹849
+* **Frame & Custom PCB:** ₹2,900
+* **Total Estimated Build Cost:** **~₹5,745 (approx. $68 USD)**
+
+Happy building! Feel free to open an issue or pull request if you find better component alternatives.
+

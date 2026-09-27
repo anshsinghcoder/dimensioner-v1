@@ -2,7 +2,7 @@
 MAAP-1: Automated Static Dimensioning and Weighing System 
 
 Overview
-MAAP-1 is a custom-engineered, all-in-one hardware solution designed for instant static dimensioning and weighing of packages. Utilizing a custom ESP32-based PCB, multidirectional LiDAR sensors, and an integrated weighing scale, MAAP-1 instantly calculates the Length, Width, Height, and Weight of an object and outputs the data to a built-in thermal printer.
+MAAP-1 is a custom-engineered, all-in-one hardware solution designed for instant static dimensioning and weighing of packages. Utilizing a custom ESP32-based PCB, multidirectional LiDAR sensors, and an integrated weighing scale, MAAP-1 instantly calculates the Length, Width, Height, and Weight of an object .
 Designed for logistics, warehouses, and post offices, this prototype features a robust T-slot aluminum frame with 3D-printed enclosures and internal cable routing for a clean, industrial finish.
 
 Key Features
@@ -10,7 +10,7 @@ Instant Volumetric Measurement: Uses 3x LiDAR sensors on fixed structural arms t
 Integrated Weighing: Heavy-duty metal scale base seamlessly communicates with the controller.
 Custom PCB Architecture: Purpose-built ESP32-WROOM motherboard designed in KiCad, featuring onboard power regulation (AMS1117-3.3V), dedicated peripheral headers, and optimized ground planes.
 Live UI / Diagnostics: I2C LCD/OLED screen displays real-time spatial data and system status.
-Thermal Receipt Printing: Instantly prints shipping labels or dimension receipts via serial communication.
+
 Industrial Enclosure: Clean, professional 3D-printed housing with tactile dual-button operation (SW1, SW2) and status LEDs.
 
 Hardware Architecture
@@ -33,10 +33,10 @@ Main Console: Side-mounted control box housing the custom PCB, screen, buttons, 
 Repository Structure
 
 MAAP-1:
-- Firmware             # ESP32 C++ source code (PlatformIO / Arduino IDE)
+- Firmware             # ESP32 C++ source code (PlatformIO / Arduino IDE) PLEASE CALIBRATE AS PER NEEDS 
 - Hardware            # KiCad PCB design files, Schematics, and Gerbers
-- Mechanical           # 3D Print files (.STL) and CAD models (.STEP) for the enclosure and arms
-- Docs               # Datasheets, assembly guides, and high-res images
+- Mechanical           # 3D Print files (.STL) and CAD models (.STEP) for the enclosure and arms PLEASE ADD THE PCB ENCLOSURE AND SCREEN WHERE YOU NEED .
+- Docs               # Datasheets, assembly guides, and high-res images.
 - README.md             # Project documentation
 
 Future Improvements

@@ -65,7 +65,6 @@ Here is the complete Bill of Materials (BOM) to build your own.
 | **Hardware Kit (T-Nuts, M4 Bolts, Brackets)** | 1 | ₹350 | Local Hardware Supplier |
 
 
-<img width="1024" height="872" alt="image" src="https://github.com/user-attachments/assets/cd19077e-bae5-4a1f-a041-f82f6c88e48a" />
 <img width="626" height="485" alt="Screenshot 2026-09-20 234741" src="https://github.com/user-attachments/assets/a639a58a-78a5-470c-8494-fa35c04d0c86" />
 
 

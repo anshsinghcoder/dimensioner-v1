@@ -30,6 +30,7 @@ MAAP-1:
 
 
 Here is the complete Bill of Materials (BOM) to build your own.
+IF U WANT AMOUNTS IN DOLLARS PLEASE REFER TO BOM.CSV 
 
 
 
